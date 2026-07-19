@@ -1,0 +1,28 @@
+Crop,Opt_Temp_C,Opt_Precip_mm,Opt_Humid_pct,Opt_Solar_Rad_Wm2
+paddy,27,1250,75,450
+sugarcane,28,1500,70,500
+banana,27,2000,75,400
+coconut,27,1800,75,500
+tapioca,27,1200,70,450
+mango,27,1000,60,500
+blackgram,30,800,60,450
+greengram,30,800,60,450
+gingelly,27,600,50,500
+brinjal,25,800,65,450
+cashew,25,1200,65,550
+cotton,28,800,60,550
+groundnut,27,700,65,500
+capsicum,22,1000,70,400
+bhendi,27,1000,70,450
+cocoa,25,1800,80,400
+malligai,27,1000,70,450
+guava,25,1000,65,500
+chilli,25,1000,65,450
+annual moringa,28,800,60,500
+snake gourd,27,1000,70,400
+bellary onion,20,700,65,450
+small onion,20,700,65,450
+betelvine,25,2000,80,350
+watermelon,28,600,60,600
+marigold,22,800,65,450
+tuberose,25,1000,70,450

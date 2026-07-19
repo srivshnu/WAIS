@@ -1,0 +1,28 @@
+Crop,season,Lethal_Heat_C,Lethal_Flood_mm,Lethal_Drought_FDI,Lethal_GW_Class,Lethal_pH_min,Lethal_pH_max,Lethal_N_min_kgha,Lethal_Flowering_Ks,Economic_Viable
+paddy,Kharif,40,1850,0.4,2,4,8.5,40,0.65,1
+sugarcane,All,43,2200,0.45,2.5,5,8.5,80,0.5,1
+banana,All,40,2900,0.5,2.5,5,7.5,60,0.55,1
+coconut,All,42,2800,0.6,3,5,8,40,0.45,1
+tapioca,All,41,1700,0.35,2,4.5,8,30,0.4,1
+mango,All,42,1600,0.5,2.5,5.5,7.5,30,0.45,1
+blackgram,Kharif,42,1000,0.2,1,5.5,8,15,0.5,1
+greengram,Kharif,42,1000,0.2,1,5.5,8,15,0.5,1
+gingelly,Kharif,41,750,0.15,0.8,5.4,8,20,0.45,1
+brinjal,All,38,1100,0.25,1.2,5.5,8,50,0.5,1
+cashew,All,40,1700,0.45,2.2,4.5,8,25,0.45,1
+cotton,Kharif,43,1250,0.35,1.8,5.5,8.5,50,0.55,1
+groundnut,Kharif,40,1000,0.25,1.2,5.5,7.5,20,0.55,1
+capsicum,Rabi,33,1350,0.2,1,6,8,40,0.55,1
+bhendi,All,40,1250,0.22,1.2,6,8,30,0.45,1
+cocoa,All,37,2500,0.35,2.2,5,7.5,50,0.55,1
+malligai,All,41,1500,0.4,1.8,6,8,40,0.5,1
+guava,All,39,1600,0.45,2,5,7,30,0.4,1
+chilli,All,37,1400,0.25,1.5,6,8,40,0.5,1
+annual moringa,All,42,1200,0.35,2,6.5,7.5,25,0.4,1
+snake gourd,All,40,1250,0.3,1.8,6,7.5,30,0.5,1
+bellary onion,Rabi,30,950,0.2,1,6,7.5,40,0.6,1
+small onion,Rabi,30,950,0.2,1,6,7.5,30,0.6,1
+betelvine,All,37,2800,0.4,2.5,6.5,8,50,0.55,1
+watermelon,Kharif,42,800,0.3,1.5,5.5,7.5,35,0.55,1
+marigold,All,33,1100,0.25,1.2,5.5,7.5,35,0.45,1
+tuberose,All,38,1400,0.3,1.5,6.5,7.5,50,0.55,1
